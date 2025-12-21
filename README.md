@@ -272,6 +272,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 [Live Demo](https://openai-ai-behavioural-analytics-das.vercel.app) 
 
-Made with ❤️ and ☕ by Derril Filemon(https://github.com/your-username)
+Made with ❤️ and ☕ by Derril Filemon
 
 </div>
