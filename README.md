@@ -1,7 +1,6 @@
 # 🚀 AI Behavioral Analytics Dashboard
 **Powered by OpenAI GPT-4.1 + React 19**
 
-🌐 **[View Live Application](https://openai-ai-behavioural-analytics-das.vercel.app)**
 
 > **Transform raw user events into actionable product insights. Ingest event streams, infer behavioral patterns, predict churn, and get AI-powered UX recommendations—all in one beautiful dashboard.** ⚡
 
@@ -269,8 +268,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 <div align="center">
-
-[Live Demo](https://openai-ai-behavioural-analytics-das.vercel.app) 
 
 Made with ❤️ and ☕ by Derril Filemon
 
